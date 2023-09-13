@@ -1,3 +1,3 @@
-# Gonzales_Electives2_Exercise1
+# Gonzales_Electives2_Exercises
 Exercise #1
 Exercise #2
